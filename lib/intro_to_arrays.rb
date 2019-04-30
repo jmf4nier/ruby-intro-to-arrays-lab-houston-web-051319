@@ -8,7 +8,8 @@ def my_first_element(array)
   array[0]
 end
 def my_third_element(array)
-  array[]
+  array[2]
+end
 
 def my_last_element(array)
   array[]
