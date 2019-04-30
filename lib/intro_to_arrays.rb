@@ -12,10 +12,17 @@ def my_third_element(array)
 end
 
 def my_last_element(array)
-  array[]
+  array[-1]
+end
 
-first_element_with_array_methods
+def first_element_with_array_methods(array)
+  array.first
+end
 
-last_element_with_array_methods
+last_element_with_array_methods(array)
+  array.last 
+end 
 
-length_of_array
+def length_of_array(array)
+  array.length 
+end
