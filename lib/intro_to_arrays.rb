@@ -8,7 +8,8 @@ def my_first_element(array)
   array[0]
 end
 
-def my_last_element
+def my_last_element(array)
+  array[]
 
 first_element_with_array_methods
 
